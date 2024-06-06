@@ -1,6 +1,6 @@
 # Encryption
- 
-Project Description
+
+### Project Description
 
 This project involves creating a Client-Server application that allows for the transmission of encrypted messages from the Client to the Server using Transposition Cipher for encryption and decryption.
 
