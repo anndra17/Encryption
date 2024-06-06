@@ -22,6 +22,7 @@ This project involves creating a Client-Server application that allows for the t
 - Message Decryption: The server decrypts the received messages and displays both
 
 ### How to Run
+
 1. Clone the repository:
       `git clone https://github.com/yourusername/your-repo-name.git`
    
